@@ -13,7 +13,13 @@ connectDB();
 
 const app = express();
 
-app.use(cors());
+app.use(cors({
+  origin: [
+    "https://appw-two.vercel.app",
+    "http://localhost:3000",
+    "http://localhost:5173"
+  ]
+}));
 app.use(express.json());
 
 app.get("/", (req, res) => {
