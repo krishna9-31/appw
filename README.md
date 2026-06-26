@@ -20,13 +20,7 @@ MERN stack bus booking app using JavaScript only.
 - Duplicate seat booking prevention
 - Public booking/reservation APIs (session-based seat locking)
 
-## Predefined Cities
 
-- Hyderabad
-- Bangalore
-- Chennai
-- Mumbai
-- Delhi
 
 ## Backend Setup
 
