@@ -1,6 +1,6 @@
-# Bus Booking Web Application (MVP)
+# Bus Booking Web Application
 
-MERN stack bus booking app using JavaScript only.
+MERN stack bus booking app using MERN Stack.
 
 ## Tech Stack
 
